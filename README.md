@@ -1,0 +1,2 @@
+# Sapanutu_SmartSystemforCultivationLobster
+Sapanutu (Smart Device for Cultivation of Panulirus Ornatus) merupakan sistem untuk pemantauan kondisi kandungan air laut yang dibuat khusus dengan algoritma pemrograman berbasis internet of things untuk budidaya lobster berjenis Panulirus Ornatus. Sapanutu (Smart Device for Cultivation of Panulirus Ornatus) dapat melakukan pemantauan terhadap kadar keasaman air laut, suhu air laut, kejernihan, dan kadar garam secara realtime berbasis media informasi website dengan teknologi Internet of Things dan Machine to Machine Communication. 
